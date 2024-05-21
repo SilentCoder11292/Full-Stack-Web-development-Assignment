@@ -1,0 +1,28 @@
+Question: Differentiate between unary, and binary operators in JavaScript. Give examples of each.
+Answer: 
+Operators in JavaScript are categorized based on the number of operands they required into the
+following groups:
+* Unary operators: Unary operators operate on a single operand.
+* Binary operators: Binary operators operate on two operands.
+
+Unary Operators in JavaScript are:
+++
+--
+!
+~
+
+Binary operators in JavaScript are:
++
+*
+/
+%
+==
+===
+!=
+!==
+>
+<
+>=
+<=
+&&
+||
