@@ -1,0 +1,3 @@
+ The DOCTYPE declaration, or document type declaration, is the first line of code in an HTML or XHTML document. It tells the browser what version of HTML the page is written in. This ensures that the web page is parsed the same way by different web browsers.
+The DOCTYPE declaration is not a tag or element of the HTML. It appears at the top of a web page before all other elements. To declare an HTML5 doctype, `<! DOCTYPE html>` is required in the first line of your HTML document.
+The declaration is not case sensitive and does not require a closing tag.

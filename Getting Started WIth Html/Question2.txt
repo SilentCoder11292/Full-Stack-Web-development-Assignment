@@ -1,0 +1,7 @@
+Comments in HTML are used to add explanatory notes or remarks within the HTML code. They are not displayed on the rendered webpage. Comments can be used to:
+Explain code
+Leave notes
+Indicate sections of a document
+Make temporary changes
+Hide specific sections during development
+Comments are inserted in HTML code with the help of the <!-- Any Exclamatory part -->  tag.
